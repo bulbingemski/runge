@@ -7,5 +7,7 @@ As a result code give's us some graphical stuff where blue is the basic function
 ![Figure_1](https://user-images.githubusercontent.com/65924626/191604859-a58d7ef3-fb3f-47db-b360-ddce5306eb6c.png)
 
 As the final sweetness in console you would see the value of y for x = 2.
+
 y(2) =  2.5855377866955225
+
 As you see, in this work we don't care about calculating errors.
