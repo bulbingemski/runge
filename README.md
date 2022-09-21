@@ -10,4 +10,4 @@ As the final sweetness in console you would see the value of y for x = 2.
 
 y(2) =  2.5855377866955225
 
-In this work we don't care about calculating errors which are supposed to be small enough.
+In this work we don't care about calculating errors. They are supposed to be small enough.
